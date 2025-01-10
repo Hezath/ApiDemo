@@ -23,7 +23,7 @@ namespace ApiDemo.Services
             throw new NotImplementedException();
         }
 
-        public List<User> GetAllTarefas()
+        public List<Tarefa> GetAllTarefas()
         {
             throw new NotImplementedException();
         }
@@ -45,5 +45,6 @@ namespace ApiDemo.Services
         {
             throw new NotImplementedException();
         }
+
     }
 }
