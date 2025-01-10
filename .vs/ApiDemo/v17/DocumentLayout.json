@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caiom\\Desktop\\Projeto\\Api\\ApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9309D848-D2D0-4B40-A1C2-2063C06EB986}|ApiDemo.csproj|c:\\users\\caiom\\desktop\\projeto\\api\\apidemo\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309D848-D2D0-4B40-A1C2-2063C06EB986}|ApiDemo.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309D848-D2D0-4B40-A1C2-2063C06EB986}|ApiDemo.csproj|c:\\users\\caiom\\desktop\\projeto\\api\\apidemo\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309D848-D2D0-4B40-A1C2-2063C06EB986}|ApiDemo.csproj|solutionrelative:services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Caiom\\Desktop\\Projeto\\Api\\ApiDemo\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Caiom\\Desktop\\Projeto\\Api\\ApiDemo\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:39:42.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\Caiom\\Desktop\\Projeto\\Api\\ApiDemo\\Services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "Services\\TarefaService.cs",
+              "ToolTip": "C:\\Users\\Caiom\\Desktop\\Projeto\\Api\\ApiDemo\\Services\\TarefaService.cs",
+              "RelativeToolTip": "Services\\TarefaService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:37:40.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
